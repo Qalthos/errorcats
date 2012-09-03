@@ -10,5 +10,4 @@ setup(
     author_email='Qalthos@gmail.com',
     url='https://github.com/Qalthos/errorcats',
     packages=find_packages(),
-    package_data={'': ['*.mak']},
 )
